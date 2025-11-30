@@ -21,6 +21,11 @@
   <img class="badge-space" src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge" />
 </p>
 
+<h3>Firewall</h3>
+<p>
+  <img class="badge-space" src="https://img.shields.io/badge/Fortigate-333333?style=for-the-badge" />
+</p>
+
 <h3>Microsoft Admin</h3>
 <p>
   <img class="badge-space" src="https://img.shields.io/badge/Microsoft_365_Admin-333333?style=for-the-badge" />
