@@ -37,3 +37,11 @@
   <img class="badge-space" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
+</p>
