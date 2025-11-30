@@ -2,7 +2,7 @@
 
 <h2>🔧 Technologies and Skills</h2>
 
-<h3>Operating Systems</h3>
+<h3>Operational Systems</h3>
 <p>
   <img class="badge-space" src="https://img.shields.io/badge/Windows-333333?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/Windows_Server-607078?style=for-the-badge" />
