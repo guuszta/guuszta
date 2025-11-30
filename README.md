@@ -1,7 +1,5 @@
 <h3 align="center">👋 Hello, I'm Gustavo</h3>
 
-<br>
-
 <h2>🔧 Technologies and Skills</h2>
 
 <h3>Operating Systems</h3>
