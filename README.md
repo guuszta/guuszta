@@ -2,7 +2,7 @@
 
 <h2>🔧 Technologies and Skills</h2>
 
-<h3>Operational Systems</h3>
+<h3>Operating Systems</h3>
 <p>
   <img class="badge-space" src="https://img.shields.io/badge/Windows-333333?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/Windows_Server-607078?style=for-the-badge" />
@@ -10,29 +10,36 @@
   <img class="badge-space" src="https://img.shields.io/badge/Ubuntu_Server-607078?style=for-the-badge" />
 </p>
 
-<h3>Virtualization</h3>
+<h3>Virtualization & Containers</h3>
 <p>
   <img class="badge-space" src="https://img.shields.io/badge/VMware_Workstation-333333?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/VirtualBox-607078?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/KVM-333333?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Docker-607078?style=for-the-badge" />
+</p>
+
+<h3>Networking & Security</h3>
+<p>
+  <img class="badge-space" src="https://img.shields.io/badge/Fortigate-333333?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/DHCP-607078?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/VLAN-333333?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/NAT-607078?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/VPN-333333?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/DNS-607078?style=for-the-badge" />
+</p>
+
+<h3>Platforms & Administration</h3>
+<p>
+  <img class="badge-space" src="https://img.shields.io/badge/Active_Directory-333333?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Microsoft_365_Admin-607078?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Teams_Admin-333333?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/SharePoint_Admin-607078?style=for-the-badge" />
+  <img class="badge-space" src="https://img.shields.io/badge/Exchange_Admin-333333?style=for-the-badge" />
 </p>
 
 <h3>Database</h3>
 <p>
   <img class="badge-space" src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge" />
-</p>
-
-<h3>Firewall</h3>
-<p>
-  <img class="badge-space" src="https://img.shields.io/badge/Fortigate-333333?style=for-the-badge" />
-</p>
-
-<h3>Microsoft Admin</h3>
-<p>
-  <img class="badge-space" src="https://img.shields.io/badge/Microsoft_365_Admin-333333?style=for-the-badge" />
-  <img class="badge-space" src="https://img.shields.io/badge/Teams_Admin-607078?style=for-the-badge" />
-  <img class="badge-space" src="https://img.shields.io/badge/SharePoint_Admin-333333?style=for-the-badge" />
-  <img class="badge-space" src="https://img.shields.io/badge/Exchange_Admin-607078?style=for-the-badge" />
 </p>
 
 <br>
@@ -45,7 +52,6 @@
   <img class="badge-space" src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/Terraform-607078?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/Ansible-333333?style=for-the-badge" />
-  <img class="badge-space" src="https://img.shields.io/badge/Docker-607078?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/Jenkins-333333?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/Prometheus-607078?style=for-the-badge" />
   <img class="badge-space" src="https://img.shields.io/badge/Grafana-333333?style=for-the-badge" />
