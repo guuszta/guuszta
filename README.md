@@ -33,7 +33,7 @@
 ### 💼 Enterprise Administration
 <p>
   <img src="https://img.shields.io/badge/Microsoft_365_Admin-0078D4?style=for-the-badge&logo=microsoft365&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Exchange_Admin-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white" />
   <img src="https://img.shields.io/badge/SharePoint_Admin-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
